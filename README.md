@@ -39,9 +39,9 @@ Current State:
 | Item | Usability    | State    |
 | :---:   | :---: | :---: |
 | Installer | 🟨   | 🚧   |
-| Assembler | 🟥   | 🚧   |
+| Assembler | 🟩   | ✅   |
 | Cross Compiler | 🟩   | ✅   |
 | OS Compiler | 🟥   | 🚧   |
-| Virtual Machine (QEMU) | 🟥   | 🚧   |
+| Virtual Machine (QEMU) | 🟩   | ✅   |
 | Bootloader | 🟥   | ❌   |
 | x86 Protected Mode | 🟥   | ❌   |
