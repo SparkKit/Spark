@@ -5,7 +5,7 @@
 Spark (Systems Programming Assisted Resource Kit) is a development kit for OSDev, that prioritizes the use of C++.
 <br>
 <br>
-This kit's purpose is to simplify the already difficult development process while creating an operating system. It simplifies the OS creation process by offering essential functions and classes, acting as a foundation for custom OS projects. It's versatile, allowing users to add their functions in using NASM assembly. Currently, only x86 will be provided, but in the future, x64 will be supported as well.
+This kit aims to simplify the already difficult development process while creating an operating system. It simplifies the OS creation process by offering essential functions and classes as a foundation for custom OS projects. It's versatile, allowing users to add their functions using NASM assembly. Currently, only x86 will be provided, but in the future, x64 will also be supported.
 <hr/>
 
 ## Issues
@@ -38,10 +38,10 @@ Current State:
 <br>
 | Item | Usability    | State    |
 | :---:   | :---: | :---: |
-| Installer | 🟨   | 🚧   |
+| Installer | 🟩   | 🚧   |
 | Assembler | 🟩   | ✅   |
 | Cross Compiler | 🟩   | ✅   |
-| OS Compiler | 🟥   | 🚧   |
+| OS Compiler | 🟨   | 🚧   |
 | Virtual Machine (QEMU) | 🟩   | ✅   |
-| Bootloader | 🟥   | ❌   |
+| Bootloader | 🟥   | 🚧   |
 | x86 Protected Mode | 🟥   | ❌   |
